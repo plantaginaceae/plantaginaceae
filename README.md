@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @plantaginaceae
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning deploying
-- 💞️ I’m looking to collaborate on game projects
+- 🌱 I’m currently learning html css
+- 💞️ I’m looking to collaborate small html css javascript projects.
 - 📫 How to reach me plantaginaceae@skiff.com
 
 <!---
